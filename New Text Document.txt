@@ -1,2 +1,6 @@
 testing
+<<<<<<< HEAD
 Changed from local
+=======
+Changed from Github
+>>>>>>> Changed
