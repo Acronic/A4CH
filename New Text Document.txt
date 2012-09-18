@@ -1,7 +1,6 @@
 testing
 Changed from local
 added line from local
-
-
 Changed from Github
 
+Major work added
