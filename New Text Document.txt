@@ -4,4 +4,8 @@ added line from local
 Changed from Github
 Added line from Github
 
+<<<<<<< HEAD
 minor fix
+=======
+Major work added
+>>>>>>> local
