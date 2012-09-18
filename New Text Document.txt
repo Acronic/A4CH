@@ -1,12 +1,5 @@
 testing
 Changed from local
 added line from local
-
-
 Changed from Github
-
-<<<<<<< HEAD
-=======
 Added line from Github
->>>>>>> Changed
->>>>>>> 6ea8b992c26bbf3cfd3f23fbb660086fd83777c7
