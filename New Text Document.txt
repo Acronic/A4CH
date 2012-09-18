@@ -3,4 +3,6 @@ testing
 Changed from local
 =======
 Changed from Github
+
+Added line from Github
 >>>>>>> Changed
